@@ -25,3 +25,6 @@ for group_name in filtered_groups[filtered_groups].index:
     t1=titanic_data[titanic_data['class'] == group_name]
     print(t1[['age','sex','class','fare','survived']].head())
     print()
+
+Karan
+
